@@ -1,4 +1,4 @@
-module github.com/mtslzr/pokeapi-go
+module github.com/LuisPedroza/pokeapi-go
 
 go 1.22
 
